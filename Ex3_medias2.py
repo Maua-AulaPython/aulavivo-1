@@ -14,3 +14,6 @@ if i<>0:
 	print 'a media e: %i' % resultado
 else:
 	print 'voce nao inseriu nenhuma nota'
+
+# Nota: 1.0
+# Comentario: *

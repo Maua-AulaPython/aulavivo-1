@@ -8,3 +8,6 @@ def verificapar(x):
 x=int(raw_input('insira um numero inteiro: '))
 verificapar(x)
 raw_input()
+
+# Nota: 1.0
+# Comentario: *
