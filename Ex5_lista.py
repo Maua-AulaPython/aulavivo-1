@@ -15,11 +15,6 @@ def calculalong(x,y,z):
 		h=(P/cos(f))-N
 	return f, h
 
-
-
-
-
-
 print('Calculo da latitude, longitude, altitude de uma coordenada cartesiana:')
 x=float(raw_input('Insira a coordenada cartesiana x: '))
 y=float(raw_input('Insira a coordenada cartesiana y: '))
@@ -32,3 +27,6 @@ print'Longitude:', lat
 print'Latitude: ',lon
 print'Altitude:', h
 raw_input()
+
+# Nota: 1.0
+# Good job!

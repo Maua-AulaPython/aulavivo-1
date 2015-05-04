@@ -16,3 +16,6 @@ angulo=angulo(x1,y1,x2,y2)
 print('o modulo e: ', modulo)
 print('o angulo e: ', angulo)
 raw_input()
+
+# Nota: 1.0
+# Nice work!
