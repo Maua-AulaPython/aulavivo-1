@@ -21,3 +21,6 @@ if verifica(a,b,c):
 else:
 	print 'O triangulo nao eh retangulo, seus valores sao: \n A=%i \n B=%i \n C=%i', a,b,c
 raw_input()
+
+# Nota: 1.0
+# Good job!

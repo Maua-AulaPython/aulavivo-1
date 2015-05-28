@@ -23,11 +23,6 @@ def maior(x,y):
 		l=l+1
 	return distmaior
 
-
-
-
-
-
 aux='s'
 i=1
 x=[]
@@ -44,3 +39,6 @@ while aux=='s':
 resposta=maior(x,y)
 print('a maior distancia e: ', resposta)
 raw_input()
+
+# Nota: 1.0
+# Atenção com a complexidade do códgio! seria mais facil fazer com 2 for ;)

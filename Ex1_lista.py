@@ -11,3 +11,6 @@ y2=float(raw_input('digite acoordenada y2: '))
 d=distancia(x1,y1,x2,y2)
 print('a distancia e: ', d)
 raw_input()
+
+# Nota: 1.0
+# Good job!
