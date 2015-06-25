@@ -33,3 +33,6 @@ if i<>0:
 else:
 	print 'voce nao inseriu nenhuma nota'
 maiornota(notas)
+
+#Nota: 0.9
+#Comentario: A media deve ser um valor float e nao um inteiro
